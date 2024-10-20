@@ -26,6 +26,7 @@ I've had a lot of fun creating and working on this game, and will continue to de
    ```
 4. Run the game.
    ```
+   run Main
 
 ## Controls
 - **Arrow Keys**: Move the cat in different directions.
